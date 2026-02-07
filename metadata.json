@@ -1,0 +1,8 @@
+{
+  "name": " fitness ai",
+  "description": "Elite AI-powered nutrition and fitness coach with real-time voice interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
